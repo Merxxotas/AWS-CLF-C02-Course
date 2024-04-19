@@ -1,0 +1,6 @@
+#Ignore all .pem files#
+*.pem
+
+#Ignore all .csv that contains the word 'accessKeys' or 'credentials'#
+*accessKeys*.csv
+*credentials*.csv
